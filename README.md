@@ -15,7 +15,6 @@ In this, I try to learn and understand the working of Deep learning concepts usi
 https://keras.io/guides/
 
 ## TODO
-* Implementing Bidirectional LSTM
 * Transfer Learning
 * Encoder Decoder
 * Autoencoder
