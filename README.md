@@ -15,7 +15,6 @@ In this, I try to learn and understand the working of Deep learning concepts usi
 https://keras.io/guides/
 
 ## TODO
-* Transfer Learning
 * Encoder Decoder
 * Autoencoder
 * GAN Concepts
