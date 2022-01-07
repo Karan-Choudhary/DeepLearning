@@ -1,9 +1,9 @@
 # DeepLearning
 Into the depths of some concepts of Deep Learning
 Different Concepts are explained in depth to understand what is going on inside it.
-I am just learning all this. All the credit goes to the main authors:
-*Alexander Amini
-*Krish Naik
+I am just learning all this. All the credit goes to the main authors:</br>
+* Alexander Amini
+* Krish Naik
 
 ## Important Links
 If you want to Understand the Maths and the Concepts behind Machine learning and its other concepts then refer to these links:
