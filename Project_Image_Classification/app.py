@@ -16,7 +16,7 @@ from flask import Flask,redirect,url_for,request,render_template
 
 # define a flask app
 app = Flask(__name__)
-MODEL_PATH = 'C:/Users/kc510/Documents/Neural_Network/Project_Image_Classification/vgg19.h5'
+MODEL_PATH = 'vgg19.tf'
 
 # Load model
 model = load_model(MODEL_PATH)
