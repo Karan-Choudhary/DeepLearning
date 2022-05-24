@@ -1,6 +1,6 @@
 Flask==2.0.1
 numpy==1.19.5
-tensorflow==2.7.0
+tensorflow==2.7.2
 Werkzeug==2.0.1
 gunicorn
 itsdangerous
