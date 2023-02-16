@@ -1,7 +1,7 @@
 Flask==2.0.1
 numpy==1.19.5
 tensorflow==2.7.0
-Werkzeug==2.0.1
+Werkzeug==2.2.3
 gunicorn
 itsdangerous
 Jinja2
